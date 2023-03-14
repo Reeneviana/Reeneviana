@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Reeneviana
 - 👀 I’m interested in  me tornar um desenvolvedor.
-- 🌱 I’m currently learning linguagem front-end JS|CSS|HTML
+- 🌱 I’m currently learning linguagem front-end JS|CSS|HTML|REACT
 - 💞️ I’m looking to collaborate on novos projetos, e aprender coisas novas.
-- 📫 How to reach me  [Linkedin](https://www.linkedin.com/in/rene-viana-ab5738244/)
+- 📫 How to reach me :
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Reeneviana)](https://github.com/Reeneviana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rene-viana-ab5738244/)](https://www.linkedin.com/in/rene-viana-ab5738244/)
 
 <!---
 Reeneviana/Reeneviana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
