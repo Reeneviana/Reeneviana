@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reeneviana
-- 👀 I’m interested in  me tornar um desenvolvedor.
-- 🌱 I’m currently learning linguagem front-end JS|CSS|HTML|REACT
+- 👀 Atuo como desenvolvedor Low code com Power plataform
+- 🌱 I’m currently learning linguagens C#|JS
 - 💞️ I’m looking to collaborate on novos projetos, e aprender coisas novas.
 - 📫 How to reach me :
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Reeneviana)](https://github.com/Reeneviana)
